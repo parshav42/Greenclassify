@@ -12,4 +12,21 @@
 
 ---
 
+
+
+
+## Project Output Screenshots
+
+### Home Page
+![Home](screenshots/home_page.png)
+
+### Prediction Page
+![Prediction](screenshots/upload_page.png)
+
+### Result Page
+![Result](screenshots/result_page.png)
+
+### Terminal
+![Terminal](screenshots/terminal.png)
+
 ## Repo Structure
