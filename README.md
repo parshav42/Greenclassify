@@ -18,15 +18,17 @@
 ## Project Output Screenshots
 
 ### Home Page
-![Home](screenshots/home_page.png)
+![Home](screenshots(Web)/home_page.png)
 
 ### Prediction Page
-![Prediction](screenshots/upload_page.png)
+![Prediction](screenshots(Web)/upload_page.png)
 
 ### Result Page
-![Result](screenshots/result_page.png)
+![Result](screenshots(Web)/result_page.png)
 
 ### Terminal
-![Terminal](screenshots/terminal.png)
+![Terminal](screenshots(Web)/terminal.png)
 
-## Repo Structure
+## 🎥 Project Demo Video
+
+Click here to watch demo video - https://drive.google.com/file/d/1rh2n5iv1DpRem36MZ3_0PlFdXhnjSHhr/view?usp=drive_link
